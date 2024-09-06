@@ -1,4 +1,4 @@
-Here is a `README.md` for your GitHub repository that presents the information in a clear and visually appealing format, similar to the example you provided:
+contaHere is a `README.md` for your GitHub repository that presents the information in a clear and visually appealing format, similar to the example you provided:
 
 ---
 
@@ -77,7 +77,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For more information or queries, please reach out to [your-email@example.com](mailto:your-email@example.com).
+For more information or queries, please reach out to and send a message in my twitter (x): edmund7s
 
 ---
 
